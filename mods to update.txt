@@ -1,0 +1,13 @@
+1.Abyssalcraft 1.10.2-1.9.4-pre3
+2.Agricraft 2.0.0-0.10.0-a17
+3.InfinityLib 0.10.0
+4.Minecolonies 1.10.2-0.8.1772
+5.Modular Powersuits 1.10.2-1.2.118
+6.steve's carts rebortn 1.10.2-2.2.0.86
+7.Tinker's construct 1.10.2-2.6.5
+8.EnderUtilities 1.10.2-0.7.2
+9.Reliquary v1.3
+10.Bibliocraft v2.2.2
+
+Curse×Ô´øjavaÂ·¾¶
+C:\Users\pijie\Documents\Curse\Minecraft\Install\runtime\jre-x64\1.8.0_25\bin\javaw.exe
